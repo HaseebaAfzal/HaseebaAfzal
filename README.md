@@ -12,4 +12,4 @@ I'm [Your Name], a passionate learner and a Master's student in Bioinformatics.
 
 ## 🌱 What I'm Currently Learning
 - Python and its vast ecosystem.
-- Advanced Data Structures and Algorithms.
+- Advanced Data Structures and Algorithms.   
