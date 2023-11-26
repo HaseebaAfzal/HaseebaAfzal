@@ -1,8 +1,5 @@
 ### Hi there 👋
-<!--
-**HaseebaAfzal/HaseebaAfzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm [Your Name], a passionate learner and a Master's student in Bioinformatics. 
+I'm Haseeba Afzal, a passionate learner and a Master's student in Bioinformatics. 
 🧬 Currently diving deep into the world of Python and Data Structures.
 
 ## 🚀 My Focus
