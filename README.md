@@ -4,7 +4,7 @@ I'm Haseeba Afzal, a passionate learner and a Master's student in Bioinformatics
 
 ## 🚀 My Focus
 - 🔍 Exploring the wonders of Python programming.
-- 📊 Learning and implementing data structures for efficient problem-solving.
+- 📊 Learning data structures for efficient problem-solving.
 - 🧬 Pursuing a Master's in Bioinformatics to merge biology with computational analysis.
 
 ## 🌱 What I'm Currently Learning
